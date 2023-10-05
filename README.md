@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Sharma</h1>
 <h3 align="center">A Web Developer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaysharma77&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysharma77" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaysharma77" alt="vinaysharma77" /></a> </p>
 
 - 📫 How to reach me **vinaysharma15603@gmail.com**
